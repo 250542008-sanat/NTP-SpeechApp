@@ -10,7 +10,7 @@ Kısa Açıklama: Windows Forms ve `System.Speech` kütüphanesi kullanılarak g
 ## Kurulum ve Çalıştırma Adımları
 
 1. Bu depoyu yerel bilgisayarınıza klonlayın:
-   `git clone https://github.com/250542008-sanat/NTP-SpeechApp.git`
+   `git clone https://github.com/250542008-sanat/YMH219-SpeechApp.git`
 2. Proje klasörüne girin ve `NTP_SpechApp.csproj` dosyasını Visual Studio ile açın.
 3. NuGet paketlerinin (`.NET` sürümüne uyumlu `System.Speech`) geri yüklendiğinden emin olun.
 4. Üst menüden **Başlat (Start)** butonuna basarak veya `F5` tuşu ile uygulamayı çalıştırın.
